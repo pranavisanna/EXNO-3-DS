@@ -81,5 +81,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 # RESULT:
-      
+
+Thus, feature encoding and transformation were successfully performed, and the processed data was saved to a file.
+
        
